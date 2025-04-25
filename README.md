@@ -1,5 +1,8 @@
 ## FUTEBOL MÁXIMO
 
+### Aluno: João Marcelo Carvalho Pereira Araújo
+### Engenharia de SOftware - Algoritmos e Estruturas de Dados II
+
 1. Leia a especificação: [Futmax](./Futmax_Especificacao.pdf)
 
 2. Implemente a solução no arquivo `src/Futebol.java`. 
